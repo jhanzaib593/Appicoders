@@ -1,0 +1,89 @@
+@media only screen and (min-width: 200px) and (max-width: 1408px) {
+  .head_nav {
+    display: none !important;
+  }
+  .herder_btn {
+    display: block !important;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1399px) {
+  .orders {
+    bottom: 47em !important;
+  }
+}
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+  .bannner {
+    text-align: center;
+  }
+  .ser_main {
+    bottom: 53em !important;
+  }
+}
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+  .t_head {
+    display: none;
+  }
+  .ser_main {
+    bottom: 92em !important;
+  }
+  .ser_back {
+    height: 88em !important;
+  }
+  .ser_font {
+    height: 85em !important;
+  }
+  .orders {
+    bottom: 94em !important;
+  }
+  .clear {
+    background-color: white;
+    height: 100px !important;
+    margin-top: -97em !important;
+  }
+  .store_link {
+    padding-left: 0;
+  }
+}
+@media only screen and (min-width: 200px) and (max-width: 546px) {
+  .back_color {
+    height: 55em !important;
+    bottom: 10em !important;
+    left: -9em !important;
+  }
+  .ban_img img {
+    width: 350px !important;
+    height: 600px !important;
+  }
+  .ser_font {
+    left: 14em !important;
+  }
+  .btn_white {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .orders .container .row {
+    padding-top: 10em !important;
+  }
+}
+/* @media only screen and (min-width: 320px) and (max-width: 425px) {
+  .logo img {
+    height: 70px !important;
+    width: 250px !important;
+  }
+} */
+@media only screen and (min-width: 320px) and (max-width: 375px) {
+  .logo img {
+    height: 70px !important;
+    width: 250px !important;
+  }
+}
+@media only screen and (min-width: 200px) and (max-width: 320px) {
+  .logo {
+    height: 70px;
+    width: 250px;
+  }
+  .ban_img img {
+    width: 300px !important;
+    height: 500px !important;
+  }
+}
